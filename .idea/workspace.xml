@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef19790f-671e-425d-941d-a9b0efcb6182" name="Default Changelist" comment="" />
+    <list default="true" id="ef19790f-671e-425d-941d-a9b0efcb6182" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FindOutlier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FindOutlier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Line.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Line.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LineTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/OutlierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OutlierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FindOutlier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FindOutlier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/OutlierTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/OutlierTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,42 +24,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/FindOutlier.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="374">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Line.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FindOutlier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="272">
+              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/LineTests.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Line.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#130#131#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -57,8 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/OutlierTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,14 +69,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/FindOutlier.java" />
-        <option value="$PROJECT_DIR$/src/test/java/OutlierTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/LineTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/Line.java" />
+        <option value="$PROJECT_DIR$/src/test/java/OutlierTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FindOutlier.java" />
       </list>
     </option>
   </component>
@@ -92,47 +89,47 @@
     <option name="width" value="1936" />
     <option name="height" value="880" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="Codewars-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewars-Java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="Codewars-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewars-Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="Codewars-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewars-Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="Codewars-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewars-Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="Codewars-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewars-Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="Codewars-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewars-Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -141,12 +138,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550818863085" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551001015330" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -165,19 +164,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.OutlierTest">
     <configuration name="OutlierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Codewars" />
+      <module name="Codewars-Java" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="OutlierTest" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OutlierTest.testExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Codewars-Java" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OutlierTest" />
+      <option name="METHOD_NAME" value="testExample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.OutlierTest" />
+      <item itemvalue="JUnit.OutlierTest.testExample" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.OutlierTest" />
+        <item itemvalue="JUnit.OutlierTest.testExample" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +210,8 @@
       <workItem from="1550817828183" duration="1358000" />
       <workItem from="1550950573480" duration="24000" />
       <workItem from="1550950613162" duration="7000" />
+      <workItem from="1551000410821" duration="32000" />
+      <workItem from="1551000457426" duration="558000" />
     </task>
     <servers />
   </component>
@@ -201,14 +219,30 @@
     <history-entry file="OutlierTest - 2019.02.22 at 07h 47m 31s.xml">
       <configuration name="OutlierTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="OutlierTest - 2019.02.24 at 10h 32m 13s.xml">
+      <configuration name="OutlierTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OutlierTest - 2019.02.24 at 10h 32m 25s.xml">
+      <configuration name="OutlierTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OutlierTest - 2019.02.24 at 10h 32m 56s.xml">
+      <configuration name="OutlierTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OutlierTest - 2019.02.24 at 10h 34m 55s.xml">
+      <configuration name="OutlierTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OutlierTest - 2019.02.24 at 10h 36m 35s.xml">
+      <configuration name="OutlierTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1389000" />
+    <option name="totallyTimeSpent" value="1979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25506938" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26040554" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -217,7 +251,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -227,7 +261,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -245,21 +279,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FindOutlier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/LineTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="221">
           <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -271,20 +298,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Line.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/OutlierTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Line.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/FindOutlier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="272">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
         </state>
       </provider>
     </entry>

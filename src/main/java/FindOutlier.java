@@ -19,12 +19,12 @@ public class FindOutlier{
     }
 
     private static int searchEven(int[] integers) {
-        return Arrays.stream(integers).filter(x -> x % 2 == 0).findFirst().getAsInt();
+        return Arrays.stream(integers).filter(x -> x % 2 == 0).findAny().getAsInt();
 
     }
 
     private static int searchOdd(int[] integers) {
-        return Arrays.stream(integers).filter(x -> x % 2 == 1).findFirst().getAsInt();
+        return Arrays.stream(integers).filter(x -> x % 2 == 1).findAny().getAsInt();
 
     }
 
