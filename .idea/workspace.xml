@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef19790f-671e-425d-941d-a9b0efcb6182" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CodeWars-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Multiples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MultiplesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FindOutlier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FindOutlier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OutlierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OutlierTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,47 +21,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/FindOutlier.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            <state relative-caret-position="255">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/info.txt">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MultiplesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="78" lean-forward="true" selection-start-column="78" selection-end-column="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Line.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/OutlierTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="70" lean-forward="true" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Multiples.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -85,59 +69,60 @@
         <option value="$PROJECT_DIR$/src/test/java/OutlierTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/FindOutlier.java" />
         <option value="$PROJECT_DIR$/src/main/resources/info.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Multiples.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MultiplesTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="75" />
-    <option name="width" value="1936" />
-    <option name="height" value="880" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="Codewars-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codewars-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeWars-Java" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CodeWars-Java" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
             <path>
-              <item name="Codewars-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codewars-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeWars-Java" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CodeWars-Java" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="Codewars-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codewars-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeWars-Java" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CodeWars-Java" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="Codewars-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codewars-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeWars-Java" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CodeWars-Java" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="Codewars-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codewars-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeWars-Java" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CodeWars-Java" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="Codewars-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codewars-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeWars-Java" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CodeWars-Java" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -153,7 +138,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -169,24 +154,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.OutlierTest.testExample">
+  <component name="RunManager" selected="JUnit.MultiplesTest">
+    <configuration name="MultiplesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWars-Java" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MultiplesTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OutlierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars-Java" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="OutlierTest" />
       <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
       <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="OutlierTest.testExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Codewars-Java" />
+      <module name="CodeWars-Java" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="OutlierTest" />
       <option name="METHOD_NAME" value="testExample" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -194,9 +189,11 @@
     <list>
       <item itemvalue="JUnit.OutlierTest" />
       <item itemvalue="JUnit.OutlierTest.testExample" />
+      <item itemvalue="JUnit.MultiplesTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MultiplesTest" />
         <item itemvalue="JUnit.OutlierTest.testExample" />
         <item itemvalue="JUnit.OutlierTest" />
       </list>
@@ -217,49 +214,51 @@
       <workItem from="1550950613162" duration="7000" />
       <workItem from="1551000410821" duration="32000" />
       <workItem from="1551000457426" duration="1084000" />
+      <workItem from="1551010409638" duration="259000" />
+      <workItem from="1551010725940" duration="957000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OutlierTest - 2019.02.24 at 10h 32m 13s.xml">
-      <configuration name="OutlierTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OutlierTest - 2019.02.24 at 10h 32m 25s.xml">
-      <configuration name="OutlierTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OutlierTest - 2019.02.24 at 10h 32m 56s.xml">
-      <configuration name="OutlierTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OutlierTest - 2019.02.24 at 10h 34m 55s.xml">
-      <configuration name="OutlierTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OutlierTest - 2019.02.24 at 10h 36m 35s.xml">
-      <configuration name="OutlierTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OutlierTest - 2019.02.24 at 10h 41m 25s.xml">
-      <configuration name="OutlierTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OutlierTest - 2019.02.24 at 10h 42m 26s.xml">
-      <configuration name="OutlierTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OutlierTest - 2019.02.24 at 10h 42m 59s.xml">
-      <configuration name="OutlierTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OutlierTest_testExample - 2019.02.24 at 10h 43m 05s.xml">
+    <history-entry file="OutlierTest_testExample - 2019.02.24 at 13h 19m 49s.xml">
       <configuration name="OutlierTest.testExample" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OutlierTest_testExample - 2019.02.24 at 10h 44m 54s.xml">
+    <history-entry file="OutlierTest_testExample - 2019.02.24 at 13h 20m 20s.xml">
       <configuration name="OutlierTest.testExample" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OutlierTest_testExample - 2019.02.24 at 13h 21m 55s.xml">
+      <configuration name="OutlierTest.testExample" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiplesTest - 2019.02.24 at 13h 29m 38s.xml">
+      <configuration name="MultiplesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiplesTest - 2019.02.24 at 13h 31m 35s.xml">
+      <configuration name="MultiplesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiplesTest - 2019.02.24 at 13h 31m 46s.xml">
+      <configuration name="MultiplesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiplesTest - 2019.02.24 at 13h 32m 31s.xml">
+      <configuration name="MultiplesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiplesTest - 2019.02.24 at 13h 32m 42s.xml">
+      <configuration name="MultiplesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiplesTest - 2019.02.24 at 13h 34m 01s.xml">
+      <configuration name="MultiplesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiplesTest - 2019.02.24 at 13h 34m 36s.xml">
+      <configuration name="MultiplesTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2505000" />
+    <option name="totallyTimeSpent" value="3721000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26040554" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -268,7 +267,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32866243" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -294,55 +293,59 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/LineTests.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/info.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LineTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Line.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state>
+          <caret column="56" selection-start-column="56" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/OutlierTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="70" lean-forward="true" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+        <state relative-caret-position="285">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FindOutlier.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        <state relative-caret-position="255">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/info.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/FindOutlier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="78" lean-forward="true" selection-start-column="78" selection-end-column="78" />
+        <state relative-caret-position="195">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Line.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Multiples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MultiplesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -386,7 +389,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>11</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -398,7 +401,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Codewars</last-edited>
+          <last-edited>CodeWars-Java</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
