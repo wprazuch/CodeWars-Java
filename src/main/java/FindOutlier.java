@@ -1,5 +1,7 @@
 import java.util.Arrays;
 
+////
+
 public class FindOutlier{
     static int find(int[] integers){
 
@@ -19,12 +21,12 @@ public class FindOutlier{
     }
 
     private static int searchEven(int[] integers) {
-        return Arrays.stream(integers).filter(x -> x % 2 == 0).findAny().getAsInt();
+        return Arrays.stream(integers).filter(x -> x % 2 == 0).findAny().orElse(0);
 
     }
 
     private static int searchOdd(int[] integers) {
-        return Arrays.stream(integers).filter(x -> x % 2 == 1).findAny().getAsInt();
+        return Arrays.stream(integers).filter(x -> x % 2 == 1 || x % 2 == -1).findAny().orElse(0);
 
     }
 

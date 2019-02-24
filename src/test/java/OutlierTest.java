@@ -12,5 +12,9 @@ public class OutlierTest{
         assertEquals(3, FindOutlier.find(exampleTest1));
         assertEquals(206847684, FindOutlier.find(exampleTest2));
         assertEquals(0, FindOutlier.find(exampleTest3));
+
+        assertEquals(6, FindOutlier.find(new int[]{1, 3, 5, 7, 6, 3, 9, 13}));
+        assertEquals(131, FindOutlier.find(new int[]{32, 68, 92, 102, 131, 144}));
+        assertEquals(-3, FindOutlier.find(new int[]{0, 2, 4, 6, -3}));
     }}
      
