@@ -7,8 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Codewars" />
-        <module name="CodeWars-Java" />
         <module name="Codewars-Java" />
+        <module name="CodeWars-Java" />
       </profile>
     </annotationProcessing>
   </component>
